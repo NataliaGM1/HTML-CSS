@@ -1,0 +1,23 @@
+#page {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+  }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    background-color: gray;
+    height: 35px;
+
+}
+
+section img {
+    float: left;
+    margin-right: 50px; 
+  }
+
