@@ -33,11 +33,6 @@ h3 {
     grid-row: 1 / 3;
 }
 
-/* .uno p {
-    text-align: center;
-} */
-
-
 
 .dos {
     background-color: #000;
@@ -56,10 +51,6 @@ h3 {
 }
 
 
-/* .tres p {
-    color: #000;
-    font-weight: bold;
-} */
 
 .cuatro {
     background-color: blue;
@@ -68,11 +59,6 @@ h3 {
     margin-left: 560px;
     margin-top: -80px;
 }
-
-/* .cuatro p {
-    color: #000;
-    font-weight: bold;
-} */
 
 
 .cinco {
@@ -83,11 +69,6 @@ h3 {
     margin-top: -80px;
 
 }
-
-/* .cinco p {
-    color: #000;
-    font-weight: bold;
-} */
 
 
 .seis {
@@ -207,8 +188,7 @@ h3 {
 
 .teal {
     color: teal;
-    /* margin-left: 5px;
-    font-weight: bold; */
+   
 }
 
 .blue {
